@@ -1,0 +1,3 @@
+include ':simplelib'
+include ':app'
+rootProject.name = "simplelibapp"
